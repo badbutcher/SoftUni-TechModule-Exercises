@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_008CenterPoint\bin\Debug\_008CenterPoint.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_008CenterPoint\bin\Debug\_008CenterPoint.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_008CenterPoint\bin\Debug\_008CenterPoint.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_008CenterPoint\obj\Debug\_008CenterPoint.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_008CenterPoint\obj\Debug\_008CenterPoint.pdb

@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_08\_005AMinerTask\bin\Debug\_005AMinerTask.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_08\_005AMinerTask\bin\Debug\_005AMinerTask.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_08\_005AMinerTask\bin\Debug\_005AMinerTask.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_08\_005AMinerTask\obj\Debug\_005AMinerTask.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_08\_005AMinerTask\obj\Debug\_005AMinerTask.pdb

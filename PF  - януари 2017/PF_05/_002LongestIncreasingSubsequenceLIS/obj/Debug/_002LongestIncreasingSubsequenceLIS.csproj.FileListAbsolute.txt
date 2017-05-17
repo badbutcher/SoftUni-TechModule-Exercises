@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_002LongestIncreasingSubsequenceLIS\bin\Debug\_002LongestIncreasingSubsequenceLIS.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_002LongestIncreasingSubsequenceLIS\bin\Debug\_002LongestIncreasingSubsequenceLIS.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_002LongestIncreasingSubsequenceLIS\bin\Debug\_002LongestIncreasingSubsequenceLIS.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_002LongestIncreasingSubsequenceLIS\obj\Debug\_002LongestIncreasingSubsequenceLIS.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_002LongestIncreasingSubsequenceLIS\obj\Debug\_002LongestIncreasingSubsequenceLIS.pdb

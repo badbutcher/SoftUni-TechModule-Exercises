@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_002MinMethod\bin\Debug\_002MinMethod.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_002MinMethod\bin\Debug\_002MinMethod.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_002MinMethod\bin\Debug\_002MinMethod.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_002MinMethod\obj\Debug\_002MinMethod.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_002MinMethod\obj\Debug\_002MinMethod.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_002MinMethod\obj\Debug\_002MinMethod.csprojResolveAssemblyReference.cache

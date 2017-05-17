@@ -1,0 +1,7 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017-PartI\_001HornetWings\bin\Debug\_001HornetWings.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_001HornetWings\bin\Debug\_001HornetWings.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_001HornetWings\bin\Debug\_001HornetWings.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_001HornetWings\bin\Debug\_001HornetWings.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_001HornetWings\obj\Debug\_001HornetWings.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_001HornetWings\obj\Debug\_001HornetWings.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_001HornetWings\obj\Debug\_001HornetWings.pdb

@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_006PrimeChecker\bin\Debug\_006PrimeChecker.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_006PrimeChecker\bin\Debug\_006PrimeChecker.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_006PrimeChecker\bin\Debug\_006PrimeChecker.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_006PrimeChecker\obj\Debug\_006PrimeChecker.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_006PrimeChecker\obj\Debug\_006PrimeChecker.pdb

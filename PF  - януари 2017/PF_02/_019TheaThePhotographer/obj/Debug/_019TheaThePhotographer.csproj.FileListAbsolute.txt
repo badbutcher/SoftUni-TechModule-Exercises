@@ -1,0 +1,6 @@
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_019TheaThePhotographer\bin\Debug\_019TheaThePhotographer.exe.config
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_019TheaThePhotographer\bin\Debug\_019TheaThePhotographer.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_019TheaThePhotographer\bin\Debug\_019TheaThePhotographer.pdb
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_019TheaThePhotographer\obj\Debug\_019TheaThePhotographer.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_019TheaThePhotographer\obj\Debug\_019TheaThePhotographer.pdb
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_019TheaThePhotographer\obj\Debug\_019TheaThePhotographer.csprojResolveAssemblyReference.cache

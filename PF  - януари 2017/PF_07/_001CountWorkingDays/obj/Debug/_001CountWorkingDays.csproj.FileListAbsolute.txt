@@ -1,0 +1,7 @@
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_07\_001CountWorkingDays\bin\Debug\_001CountWorkingDays.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_001CountWorkingDays\bin\Debug\_001CountWorkingDays.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_001CountWorkingDays\bin\Debug\_001CountWorkingDays.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_001CountWorkingDays\bin\Debug\_001CountWorkingDays.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_001CountWorkingDays\obj\Debug\_001CountWorkingDays.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_001CountWorkingDays\obj\Debug\_001CountWorkingDays.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_001CountWorkingDays\obj\Debug\_001CountWorkingDays.pdb

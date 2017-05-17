@@ -1,0 +1,5 @@
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_014IntegerToHexAndBinary\bin\Debug\_014IntegerToHexAndBinary.exe.config
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_014IntegerToHexAndBinary\bin\Debug\_014IntegerToHexAndBinary.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_014IntegerToHexAndBinary\bin\Debug\_014IntegerToHexAndBinary.pdb
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_014IntegerToHexAndBinary\obj\Debug\_014IntegerToHexAndBinary.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_014IntegerToHexAndBinary\obj\Debug\_014IntegerToHexAndBinary.pdb

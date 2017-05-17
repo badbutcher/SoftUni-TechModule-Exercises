@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_004CharacterMultiplier\bin\Debug\_004CharacterMultiplier.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_004CharacterMultiplier\bin\Debug\_004CharacterMultiplier.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_004CharacterMultiplier\bin\Debug\_004CharacterMultiplier.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_004CharacterMultiplier\obj\Debug\_004CharacterMultiplier.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_004CharacterMultiplier\obj\Debug\_004CharacterMultiplier.pdb

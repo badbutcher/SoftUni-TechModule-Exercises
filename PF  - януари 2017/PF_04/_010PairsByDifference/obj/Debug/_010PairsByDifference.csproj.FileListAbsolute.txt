@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_010PairsByDifference\bin\Debug\_010PairsByDifference.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_010PairsByDifference\bin\Debug\_010PairsByDifference.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_010PairsByDifference\bin\Debug\_010PairsByDifference.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_010PairsByDifference\obj\Debug\_010PairsByDifference.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_010PairsByDifference\obj\Debug\_010PairsByDifference.pdb

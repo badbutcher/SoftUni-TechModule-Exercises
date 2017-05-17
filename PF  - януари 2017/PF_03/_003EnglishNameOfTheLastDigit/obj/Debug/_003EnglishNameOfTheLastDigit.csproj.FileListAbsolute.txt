@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_003EnglishNameOfTheLastDigit\bin\Debug\_003EnglishNameOfTheLastDigit.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_003EnglishNameOfTheLastDigit\bin\Debug\_003EnglishNameOfTheLastDigit.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_003EnglishNameOfTheLastDigit\bin\Debug\_003EnglishNameOfTheLastDigit.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_003EnglishNameOfTheLastDigit\obj\Debug\_003EnglishNameOfTheLastDigit.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_003EnglishNameOfTheLastDigit\obj\Debug\_003EnglishNameOfTheLastDigit.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_003EnglishNameOfTheLastDigit\obj\Debug\_003EnglishNameOfTheLastDigit.csprojResolveAssemblyReference.cache

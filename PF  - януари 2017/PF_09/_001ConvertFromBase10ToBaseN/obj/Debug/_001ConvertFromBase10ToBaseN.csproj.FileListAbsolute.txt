@@ -1,0 +1,7 @@
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_09\_001ConvertFromBase10ToBaseN\bin\Debug\_001ConvertFromBase10ToBaseN.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_001ConvertFromBase10ToBaseN\bin\Debug\_001ConvertFromBase10ToBaseN.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_001ConvertFromBase10ToBaseN\bin\Debug\_001ConvertFromBase10ToBaseN.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_001ConvertFromBase10ToBaseN\bin\Debug\_001ConvertFromBase10ToBaseN.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_001ConvertFromBase10ToBaseN\obj\Debug\_001ConvertFromBase10ToBaseN.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_001ConvertFromBase10ToBaseN\obj\Debug\_001ConvertFromBase10ToBaseN.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_001ConvertFromBase10ToBaseN\obj\Debug\_001ConvertFromBase10ToBaseN.pdb

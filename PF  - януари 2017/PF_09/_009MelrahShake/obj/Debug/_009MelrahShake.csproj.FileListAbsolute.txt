@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_009MelrahShake\bin\Debug\_009MelrahShake.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_009MelrahShake\bin\Debug\_009MelrahShake.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_009MelrahShake\bin\Debug\_009MelrahShake.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_009MelrahShake\obj\Debug\_009MelrahShake.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_009MelrahShake\obj\Debug\_009MelrahShake.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_009MelrahShake\obj\Debug\_009MelrahShake.pdb

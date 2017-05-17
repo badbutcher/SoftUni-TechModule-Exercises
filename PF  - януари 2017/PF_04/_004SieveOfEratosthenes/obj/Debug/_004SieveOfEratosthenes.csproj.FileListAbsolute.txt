@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_004SieveOfEratosthenes\bin\Debug\_004SieveOfEratosthenes.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_004SieveOfEratosthenes\bin\Debug\_004SieveOfEratosthenes.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_004SieveOfEratosthenes\bin\Debug\_004SieveOfEratosthenes.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_004SieveOfEratosthenes\obj\Debug\_004SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_004SieveOfEratosthenes\obj\Debug\_004SieveOfEratosthenes.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_004SieveOfEratosthenes\obj\Debug\_004SieveOfEratosthenes.pdb

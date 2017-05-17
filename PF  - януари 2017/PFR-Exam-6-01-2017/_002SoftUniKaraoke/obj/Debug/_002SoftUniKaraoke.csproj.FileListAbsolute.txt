@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_002SoftUniKaraoke\bin\Debug\_002SoftUniKaraoke.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_002SoftUniKaraoke\bin\Debug\_002SoftUniKaraoke.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_002SoftUniKaraoke\bin\Debug\_002SoftUniKaraoke.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_002SoftUniKaraoke\obj\Debug\_002SoftUniKaraoke.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_002SoftUniKaraoke\obj\Debug\_002SoftUniKaraoke.pdb

@@ -1,0 +1,7 @@
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_03\_001HelloName\bin\Debug\_001HelloName.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_001HelloName\bin\Debug\_001HelloName.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_001HelloName\bin\Debug\_001HelloName.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_001HelloName\bin\Debug\_001HelloName.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_001HelloName\obj\Debug\_001HelloName.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_001HelloName\obj\Debug\_001HelloName.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_001HelloName\obj\Debug\_001HelloName.pdb

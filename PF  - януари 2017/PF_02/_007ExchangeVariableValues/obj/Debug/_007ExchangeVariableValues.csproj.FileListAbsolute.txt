@@ -1,0 +1,5 @@
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_007ExchangeVariableValues\bin\Debug\_007ExchangeVariableValues.exe.config
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_007ExchangeVariableValues\bin\Debug\_007ExchangeVariableValues.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_007ExchangeVariableValues\bin\Debug\_007ExchangeVariableValues.pdb
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_007ExchangeVariableValues\obj\Debug\_007ExchangeVariableValues.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_007ExchangeVariableValues\obj\Debug\_007ExchangeVariableValues.pdb

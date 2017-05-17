@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_006SumBigNumbers\bin\Debug\_006SumBigNumbers.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_006SumBigNumbers\bin\Debug\_006SumBigNumbers.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_006SumBigNumbers\bin\Debug\_006SumBigNumbers.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_006SumBigNumbers\obj\Debug\_006SumBigNumbers.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_006SumBigNumbers\obj\Debug\_006SumBigNumbers.pdb

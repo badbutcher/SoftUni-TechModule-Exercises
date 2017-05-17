@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_011EqualSums\bin\Debug\_011EqualSums.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_011EqualSums\bin\Debug\_011EqualSums.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_011EqualSums\bin\Debug\_011EqualSums.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_011EqualSums\obj\Debug\_011EqualSums.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_011EqualSums\obj\Debug\_011EqualSums.pdb

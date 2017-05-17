@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_011GeometryCalculator\bin\Debug\_011GeometryCalculator.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_011GeometryCalculator\bin\Debug\_011GeometryCalculator.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_011GeometryCalculator\bin\Debug\_011GeometryCalculator.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_011GeometryCalculator\obj\Debug\_011GeometryCalculator.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_011GeometryCalculator\obj\Debug\_011GeometryCalculator.pdb

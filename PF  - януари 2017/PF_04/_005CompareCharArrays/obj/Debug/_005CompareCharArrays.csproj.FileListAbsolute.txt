@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_005CompareCharArrays\bin\Debug\_005CompareCharArrays.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_005CompareCharArrays\bin\Debug\_005CompareCharArrays.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_005CompareCharArrays\bin\Debug\_005CompareCharArrays.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_005CompareCharArrays\obj\Debug\_005CompareCharArrays.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_005CompareCharArrays\obj\Debug\_005CompareCharArrays.pdb

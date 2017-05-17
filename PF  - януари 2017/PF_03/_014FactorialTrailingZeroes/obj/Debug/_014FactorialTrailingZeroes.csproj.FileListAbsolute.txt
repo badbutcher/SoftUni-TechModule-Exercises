@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_014FactorialTrailingZeroes\bin\Debug\_014FactorialTrailingZeroes.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_014FactorialTrailingZeroes\bin\Debug\_014FactorialTrailingZeroes.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_014FactorialTrailingZeroes\bin\Debug\_014FactorialTrailingZeroes.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_014FactorialTrailingZeroes\obj\Debug\_014FactorialTrailingZeroes.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_014FactorialTrailingZeroes\obj\Debug\_014FactorialTrailingZeroes.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_014FactorialTrailingZeroes\obj\Debug\_014FactorialTrailingZeroes.csprojResolveAssemblyReference.cache

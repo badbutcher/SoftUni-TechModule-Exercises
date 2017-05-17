@@ -1,0 +1,6 @@
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_004VariableInHexadecimalFormat\bin\Debug\_004VariableInHexadecimalFormat.exe.config
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_004VariableInHexadecimalFormat\bin\Debug\_004VariableInHexadecimalFormat.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_004VariableInHexadecimalFormat\bin\Debug\_004VariableInHexadecimalFormat.pdb
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_004VariableInHexadecimalFormat\obj\Debug\_004VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_004VariableInHexadecimalFormat\obj\Debug\_004VariableInHexadecimalFormat.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_004VariableInHexadecimalFormat\obj\Debug\_004VariableInHexadecimalFormat.pdb

@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_007MaxSequenceOfIncreasingElements\bin\Debug\_007MaxSequenceOfIncreasingElements.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_007MaxSequenceOfIncreasingElements\bin\Debug\_007MaxSequenceOfIncreasingElements.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_007MaxSequenceOfIncreasingElements\bin\Debug\_007MaxSequenceOfIncreasingElements.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_007MaxSequenceOfIncreasingElements\obj\Debug\_007MaxSequenceOfIncreasingElements.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_007MaxSequenceOfIncreasingElements\obj\Debug\_007MaxSequenceOfIncreasingElements.pdb

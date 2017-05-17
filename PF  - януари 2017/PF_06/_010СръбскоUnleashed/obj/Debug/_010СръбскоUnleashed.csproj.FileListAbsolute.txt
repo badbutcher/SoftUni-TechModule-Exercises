@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_010СръбскоUnleashed\bin\Debug\_010СръбскоUnleashed.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_010СръбскоUnleashed\bin\Debug\_010СръбскоUnleashed.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_010СръбскоUnleashed\bin\Debug\_010СръбскоUnleashed.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_010СръбскоUnleashed\obj\Debug\_010СръбскоUnleashed.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_010СръбскоUnleashed\obj\Debug\_010СръбскоUnleashed.pdb

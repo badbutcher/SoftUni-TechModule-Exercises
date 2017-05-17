@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_003ValidUsernames\bin\Debug\_003ValidUsernames.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_003ValidUsernames\bin\Debug\_003ValidUsernames.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_003ValidUsernames\bin\Debug\_003ValidUsernames.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_003ValidUsernames\obj\Debug\_003ValidUsernames.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_003ValidUsernames\obj\Debug\_003ValidUsernames.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_003ValidUsernames\obj\Debug\_003ValidUsernames.pdb

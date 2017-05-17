@@ -1,0 +1,6 @@
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_012RectangleProperties\bin\Debug\_012RectangleProperties.exe.config
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_012RectangleProperties\bin\Debug\_012RectangleProperties.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_012RectangleProperties\bin\Debug\_012RectangleProperties.pdb
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_012RectangleProperties\obj\Debug\_012RectangleProperties.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_012RectangleProperties\obj\Debug\_012RectangleProperties.pdb
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_012RectangleProperties\obj\Debug\_012RectangleProperties.csprojResolveAssemblyReference.cache

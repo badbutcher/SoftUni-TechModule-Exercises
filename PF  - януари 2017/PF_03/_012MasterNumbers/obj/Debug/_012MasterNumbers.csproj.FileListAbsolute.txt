@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_012MasterNumbers\bin\Debug\_012MasterNumbers.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_012MasterNumbers\bin\Debug\_012MasterNumbers.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_012MasterNumbers\bin\Debug\_012MasterNumbers.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_012MasterNumbers\obj\Debug\_012MasterNumbers.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_012MasterNumbers\obj\Debug\_012MasterNumbers.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_012MasterNumbers\obj\Debug\_012MasterNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_005BombNumbers\bin\Debug\_005BombNumbers.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_005BombNumbers\bin\Debug\_005BombNumbers.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_005BombNumbers\bin\Debug\_005BombNumbers.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_005BombNumbers\obj\Debug\_005BombNumbers.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_005BombNumbers\obj\Debug\_005BombNumbers.pdb

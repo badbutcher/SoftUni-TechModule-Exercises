@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_003HornetAssault\bin\Debug\_003HornetAssault.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_003HornetAssault\bin\Debug\_003HornetAssault.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_003HornetAssault\bin\Debug\_003HornetAssault.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_003HornetAssault\obj\Debug\_003HornetAssault.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_003HornetAssault\obj\Debug\_003HornetAssault.pdb

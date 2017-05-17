@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_007AndreyAndBilliard\bin\Debug\_007AndreyAndBilliard.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_007AndreyAndBilliard\bin\Debug\_007AndreyAndBilliard.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_007AndreyAndBilliard\bin\Debug\_007AndreyAndBilliard.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_007AndreyAndBilliard\obj\Debug\_007AndreyAndBilliard.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_007AndreyAndBilliard\obj\Debug\_007AndreyAndBilliard.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_007AndreyAndBilliard\obj\Debug\_007AndreyAndBilliard.pdb

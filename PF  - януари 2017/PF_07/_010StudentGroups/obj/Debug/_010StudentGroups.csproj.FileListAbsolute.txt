@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_010StudentGroups\bin\Debug\_010StudentGroups.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_010StudentGroups\bin\Debug\_010StudentGroups.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_010StudentGroups\bin\Debug\_010StudentGroups.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_010StudentGroups\obj\Debug\_010StudentGroups.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_010StudentGroups\obj\Debug\_010StudentGroups.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_010StudentGroups\obj\Debug\_010StudentGroups.pdb

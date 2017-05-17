@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_007PrimesInGivenRange\bin\Debug\_007PrimesInGivenRange.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_007PrimesInGivenRange\bin\Debug\_007PrimesInGivenRange.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_007PrimesInGivenRange\bin\Debug\_007PrimesInGivenRange.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_007PrimesInGivenRange\obj\Debug\_007PrimesInGivenRange.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_007PrimesInGivenRange\obj\Debug\_007PrimesInGivenRange.pdb

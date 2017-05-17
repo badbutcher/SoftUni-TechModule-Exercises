@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_010CubeProperties\bin\Debug\_010CubeProperties.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_010CubeProperties\bin\Debug\_010CubeProperties.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_010CubeProperties\bin\Debug\_010CubeProperties.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_010CubeProperties\obj\Debug\_010CubeProperties.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_010CubeProperties\obj\Debug\_010CubeProperties.pdb

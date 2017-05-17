@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_004QueryMess\bin\Debug\_004QueryMess.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_004QueryMess\bin\Debug\_004QueryMess.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_004QueryMess\bin\Debug\_004QueryMess.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_004QueryMess\obj\Debug\_004QueryMess.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_004QueryMess\obj\Debug\_004QueryMess.pdb

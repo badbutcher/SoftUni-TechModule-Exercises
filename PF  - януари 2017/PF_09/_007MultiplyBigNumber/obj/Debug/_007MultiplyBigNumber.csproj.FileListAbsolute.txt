@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_007MultiplyBigNumber\bin\Debug\_007MultiplyBigNumber.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_007MultiplyBigNumber\bin\Debug\_007MultiplyBigNumber.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_007MultiplyBigNumber\bin\Debug\_007MultiplyBigNumber.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_007MultiplyBigNumber\obj\Debug\_007MultiplyBigNumber.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_007MultiplyBigNumber\obj\Debug\_007MultiplyBigNumber.pdb

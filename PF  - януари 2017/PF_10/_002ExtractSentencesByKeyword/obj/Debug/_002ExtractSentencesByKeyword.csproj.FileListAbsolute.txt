@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_002ExtractSentencesByKeyword\bin\Debug\_002ExtractSentencesByKeyword.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_002ExtractSentencesByKeyword\bin\Debug\_002ExtractSentencesByKeyword.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_002ExtractSentencesByKeyword\bin\Debug\_002ExtractSentencesByKeyword.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_002ExtractSentencesByKeyword\obj\Debug\_002ExtractSentencesByKeyword.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_002ExtractSentencesByKeyword\obj\Debug\_002ExtractSentencesByKeyword.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_002ExtractSentencesByKeyword\obj\Debug\_002ExtractSentencesByKeyword.pdb

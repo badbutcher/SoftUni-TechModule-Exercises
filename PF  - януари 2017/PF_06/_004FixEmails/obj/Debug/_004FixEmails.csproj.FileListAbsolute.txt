@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_004FixEmails\bin\Debug\_004FixEmails.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_004FixEmails\bin\Debug\_004FixEmails.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_004FixEmails\bin\Debug\_004FixEmails.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_004FixEmails\obj\Debug\_004FixEmails.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_004FixEmails\obj\Debug\_004FixEmails.pdb

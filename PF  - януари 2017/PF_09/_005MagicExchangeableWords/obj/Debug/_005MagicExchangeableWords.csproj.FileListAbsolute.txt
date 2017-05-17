@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_005MagicExchangeableWords\bin\Debug\_005MagicExchangeableWords.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_005MagicExchangeableWords\obj\Debug\_005MagicExchangeableWords.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_005MagicExchangeableWords\bin\Debug\_005MagicExchangeableWords.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_005MagicExchangeableWords\bin\Debug\_005MagicExchangeableWords.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_005MagicExchangeableWords\obj\Debug\_005MagicExchangeableWords.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_005MagicExchangeableWords\obj\Debug\_005MagicExchangeableWords.pdb

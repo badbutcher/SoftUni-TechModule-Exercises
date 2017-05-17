@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_009LongerLine\bin\Debug\_009LongerLine.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_009LongerLine\bin\Debug\_009LongerLine.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_009LongerLine\bin\Debug\_009LongerLine.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_009LongerLine\obj\Debug\_009LongerLine.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_009LongerLine\obj\Debug\_009LongerLine.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_009LongerLine\obj\Debug\_009LongerLine.pdb

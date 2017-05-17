@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_004HornetArmada\bin\Debug\_004HornetArmada.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_004HornetArmada\bin\Debug\_004HornetArmada.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_004HornetArmada\bin\Debug\_004HornetArmada.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_004HornetArmada\obj\Debug\_004HornetArmada.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_004HornetArmada\obj\Debug\_004HornetArmada.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_004HornetArmada\obj\Debug\_004HornetArmada.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_004AverageGrades\bin\Debug\_004AverageGrades.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_004AverageGrades\bin\Debug\_004AverageGrades.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_004AverageGrades\bin\Debug\_004AverageGrades.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_004AverageGrades\obj\Debug\_004AverageGrades.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_004AverageGrades\obj\Debug\_004AverageGrades.pdb

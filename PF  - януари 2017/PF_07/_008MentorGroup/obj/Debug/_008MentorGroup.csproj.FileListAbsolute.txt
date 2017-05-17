@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_008MentorGroup\bin\Debug\_008MentorGroup.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_008MentorGroup\bin\Debug\_008MentorGroup.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_008MentorGroup\bin\Debug\_008MentorGroup.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_008MentorGroup\obj\Debug\_008MentorGroup.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_008MentorGroup\obj\Debug\_008MentorGroup.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_008MentorGroup\obj\Debug\_008MentorGroup.csprojResolveAssemblyReference.cache

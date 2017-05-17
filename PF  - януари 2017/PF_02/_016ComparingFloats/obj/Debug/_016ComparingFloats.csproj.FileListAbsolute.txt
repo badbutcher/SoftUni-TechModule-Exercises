@@ -1,0 +1,5 @@
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_016ComparingFloats\bin\Debug\_016ComparingFloats.exe.config
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_016ComparingFloats\bin\Debug\_016ComparingFloats.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_016ComparingFloats\bin\Debug\_016ComparingFloats.pdb
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_016ComparingFloats\obj\Debug\_016ComparingFloats.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_016ComparingFloats\obj\Debug\_016ComparingFloats.pdb

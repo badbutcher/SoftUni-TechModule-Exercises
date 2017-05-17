@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_005HandsOfCards\bin\Debug\_005HandsOfCards.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_005HandsOfCards\bin\Debug\_005HandsOfCards.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_005HandsOfCards\bin\Debug\_005HandsOfCards.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_005HandsOfCards\obj\Debug\_005HandsOfCards.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_005HandsOfCards\obj\Debug\_005HandsOfCards.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_005HandsOfCards\obj\Debug\_005HandsOfCards.csprojResolveAssemblyReference.cache

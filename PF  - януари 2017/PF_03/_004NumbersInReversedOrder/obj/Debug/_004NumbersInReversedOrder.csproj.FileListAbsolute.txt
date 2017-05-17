@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_004NumbersInReversedOrder\bin\Debug\_004NumbersInReversedOrder.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_004NumbersInReversedOrder\bin\Debug\_004NumbersInReversedOrder.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_004NumbersInReversedOrder\bin\Debug\_004NumbersInReversedOrder.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_004NumbersInReversedOrder\obj\Debug\_004NumbersInReversedOrder.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_004NumbersInReversedOrder\obj\Debug\_004NumbersInReversedOrder.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_004NumbersInReversedOrder\obj\Debug\_004NumbersInReversedOrder.csprojResolveAssemblyReference.cache

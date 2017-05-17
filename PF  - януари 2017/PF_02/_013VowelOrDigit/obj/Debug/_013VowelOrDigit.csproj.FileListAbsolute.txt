@@ -1,0 +1,5 @@
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_013VowelOrDigit\bin\Debug\_013VowelOrDigit.exe.config
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_013VowelOrDigit\bin\Debug\_013VowelOrDigit.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_013VowelOrDigit\bin\Debug\_013VowelOrDigit.pdb
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_013VowelOrDigit\obj\Debug\_013VowelOrDigit.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_013VowelOrDigit\obj\Debug\_013VowelOrDigit.pdb

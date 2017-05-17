@@ -1,0 +1,5 @@
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_006StringsAndObjects\bin\Debug\_006StringsAndObjects.exe.config
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_006StringsAndObjects\bin\Debug\_006StringsAndObjects.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_006StringsAndObjects\bin\Debug\_006StringsAndObjects.pdb
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_006StringsAndObjects\obj\Debug\_006StringsAndObjects.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_006StringsAndObjects\obj\Debug\_006StringsAndObjects.pdb

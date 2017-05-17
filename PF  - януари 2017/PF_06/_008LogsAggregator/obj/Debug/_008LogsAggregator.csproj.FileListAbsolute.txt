@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_008LogsAggregator\bin\Debug\_008LogsAggregator.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_008LogsAggregator\bin\Debug\_008LogsAggregator.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_008LogsAggregator\bin\Debug\_008LogsAggregator.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_008LogsAggregator\obj\Debug\_008LogsAggregator.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_008LogsAggregator\obj\Debug\_008LogsAggregator.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_008LogsAggregator\obj\Debug\_008LogsAggregator.pdb

@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_007PopulationCounter\bin\Debug\_007PopulationCounter.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_007PopulationCounter\bin\Debug\_007PopulationCounter.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_007PopulationCounter\bin\Debug\_007PopulationCounter.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_007PopulationCounter\obj\Debug\_007PopulationCounter.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_007PopulationCounter\obj\Debug\_007PopulationCounter.pdb

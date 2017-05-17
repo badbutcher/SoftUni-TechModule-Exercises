@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_003EnduranceRally\bin\Debug\_003EnduranceRally.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_003EnduranceRally\bin\Debug\_003EnduranceRally.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_003EnduranceRally\bin\Debug\_003EnduranceRally.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_003EnduranceRally\obj\Debug\_003EnduranceRally.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_003EnduranceRally\obj\Debug\_003EnduranceRally.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_003EnduranceRally\obj\Debug\_003EnduranceRally.pdb

@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_002HornetComm\bin\Debug\_002HornetComm.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_002HornetComm\bin\Debug\_002HornetComm.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_002HornetComm\bin\Debug\_002HornetComm.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_002HornetComm\obj\Debug\_002HornetComm.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_002HornetComm\obj\Debug\_002HornetComm.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFExam-26-02-2017\_002HornetComm\obj\Debug\_002HornetComm.pdb

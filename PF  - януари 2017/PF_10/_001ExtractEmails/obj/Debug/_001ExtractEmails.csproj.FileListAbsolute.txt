@@ -1,0 +1,7 @@
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_10\_001ExtractEmails\bin\Debug\_001ExtractEmails.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_001ExtractEmails\bin\Debug\_001ExtractEmails.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_001ExtractEmails\bin\Debug\_001ExtractEmails.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_001ExtractEmails\bin\Debug\_001ExtractEmails.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_001ExtractEmails\obj\Debug\_001ExtractEmails.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_001ExtractEmails\obj\Debug\_001ExtractEmails.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_001ExtractEmails\obj\Debug\_001ExtractEmails.pdb

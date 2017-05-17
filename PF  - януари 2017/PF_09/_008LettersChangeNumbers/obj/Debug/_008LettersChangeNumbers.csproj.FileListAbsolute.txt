@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_008LettersChangeNumbers\bin\Debug\_008LettersChangeNumbers.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_008LettersChangeNumbers\bin\Debug\_008LettersChangeNumbers.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_008LettersChangeNumbers\bin\Debug\_008LettersChangeNumbers.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_008LettersChangeNumbers\obj\Debug\_008LettersChangeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_008LettersChangeNumbers\obj\Debug\_008LettersChangeNumbers.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_008LettersChangeNumbers\obj\Debug\_008LettersChangeNumbers.pdb

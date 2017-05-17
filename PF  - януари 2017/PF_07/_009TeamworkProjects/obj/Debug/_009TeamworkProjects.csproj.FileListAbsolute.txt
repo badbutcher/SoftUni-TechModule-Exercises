@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_009TeamworkProjects\bin\Debug\_009TeamworkProjects.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_009TeamworkProjects\bin\Debug\_009TeamworkProjects.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_009TeamworkProjects\bin\Debug\_009TeamworkProjects.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_009TeamworkProjects\obj\Debug\_009TeamworkProjects.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_009TeamworkProjects\obj\Debug\_009TeamworkProjects.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_009TeamworkProjects\obj\Debug\_009TeamworkProjects.pdb

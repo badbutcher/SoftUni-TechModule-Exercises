@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_002PhonebookUpgrade\bin\Debug\_002PhonebookUpgrade.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_002PhonebookUpgrade\bin\Debug\_002PhonebookUpgrade.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_002PhonebookUpgrade\bin\Debug\_002PhonebookUpgrade.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_002PhonebookUpgrade\obj\Debug\_002PhonebookUpgrade.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_002PhonebookUpgrade\obj\Debug\_002PhonebookUpgrade.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_002PhonebookUpgrade\obj\Debug\_002PhonebookUpgrade.pdb

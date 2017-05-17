@@ -1,0 +1,6 @@
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_003PracticeCharactersAndStrings\bin\Debug\_003PracticeCharactersAndStrings.exe.config
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_003PracticeCharactersAndStrings\bin\Debug\_003PracticeCharactersAndStrings.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_003PracticeCharactersAndStrings\bin\Debug\_003PracticeCharactersAndStrings.pdb
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_003PracticeCharactersAndStrings\obj\Debug\_003PracticeCharactersAndStrings.csprojResolveAssemblyReference.cache
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_003PracticeCharactersAndStrings\obj\Debug\_003PracticeCharactersAndStrings.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_003PracticeCharactersAndStrings\obj\Debug\_003PracticeCharactersAndStrings.pdb

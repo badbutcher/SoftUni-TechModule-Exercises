@@ -1,0 +1,6 @@
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_002PracticeFloatingPointNumbers\bin\Debug\_002PracticeFloatingPointNumbers.exe.config
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_002PracticeFloatingPointNumbers\bin\Debug\_002PracticeFloatingPointNumbers.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_002PracticeFloatingPointNumbers\bin\Debug\_002PracticeFloatingPointNumbers.pdb
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_002PracticeFloatingPointNumbers\obj\Debug\_002PracticeFloatingPointNumbers.csprojResolveAssemblyReference.cache
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_002PracticeFloatingPointNumbers\obj\Debug\_002PracticeFloatingPointNumbers.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_002PracticeFloatingPointNumbers\obj\Debug\_002PracticeFloatingPointNumbers.pdb

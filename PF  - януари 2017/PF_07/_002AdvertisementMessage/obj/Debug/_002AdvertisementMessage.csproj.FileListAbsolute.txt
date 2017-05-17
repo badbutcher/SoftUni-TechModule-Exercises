@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_002AdvertisementMessage\bin\Debug\_002AdvertisementMessage.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_002AdvertisementMessage\bin\Debug\_002AdvertisementMessage.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_002AdvertisementMessage\bin\Debug\_002AdvertisementMessage.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_002AdvertisementMessage\obj\Debug\_002AdvertisementMessage.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_002AdvertisementMessage\obj\Debug\_002AdvertisementMessage.pdb

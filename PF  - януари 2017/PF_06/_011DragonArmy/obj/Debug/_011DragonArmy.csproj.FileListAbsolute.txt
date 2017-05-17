@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_011DragonArmy\bin\Debug\_011DragonArmy.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_011DragonArmy\bin\Debug\_011DragonArmy.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_011DragonArmy\bin\Debug\_011DragonArmy.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_011DragonArmy\obj\Debug\_011DragonArmy.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_011DragonArmy\obj\Debug\_011DragonArmy.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_011DragonArmy\obj\Debug\_011DragonArmy.pdb

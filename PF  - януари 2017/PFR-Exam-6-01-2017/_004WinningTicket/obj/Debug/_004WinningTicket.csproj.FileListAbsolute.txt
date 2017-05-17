@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_004WinningTicket\bin\Debug\_004WinningTicket.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_004WinningTicket\bin\Debug\_004WinningTicket.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_004WinningTicket\bin\Debug\_004WinningTicket.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_004WinningTicket\obj\Debug\_004WinningTicket.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_004WinningTicket\obj\Debug\_004WinningTicket.pdb

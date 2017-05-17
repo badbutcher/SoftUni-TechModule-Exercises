@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_005UseYourChainsBuddy\bin\Debug\_005UseYourChainsBuddy.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_005UseYourChainsBuddy\bin\Debug\_005UseYourChainsBuddy.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_005UseYourChainsBuddy\bin\Debug\_005UseYourChainsBuddy.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_005UseYourChainsBuddy\obj\Debug\_005UseYourChainsBuddy.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_005UseYourChainsBuddy\obj\Debug\_005UseYourChainsBuddy.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_10\_005UseYourChainsBuddy\obj\Debug\_005UseYourChainsBuddy.pdb

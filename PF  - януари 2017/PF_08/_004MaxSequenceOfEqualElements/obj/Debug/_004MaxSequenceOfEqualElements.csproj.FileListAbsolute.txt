@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_08\_004MaxSequenceOfEqualElements\bin\Debug\_004MaxSequenceOfEqualElements.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_08\_004MaxSequenceOfEqualElements\bin\Debug\_004MaxSequenceOfEqualElements.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_08\_004MaxSequenceOfEqualElements\bin\Debug\_004MaxSequenceOfEqualElements.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_08\_004MaxSequenceOfEqualElements\obj\Debug\_004MaxSequenceOfEqualElements.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_08\_004MaxSequenceOfEqualElements\obj\Debug\_004MaxSequenceOfEqualElements.pdb

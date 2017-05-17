@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_009LegendaryFarming\bin\Debug\_009LegendaryFarming.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_009LegendaryFarming\bin\Debug\_009LegendaryFarming.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_009LegendaryFarming\bin\Debug\_009LegendaryFarming.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_009LegendaryFarming\obj\Debug\_009LegendaryFarming.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_009LegendaryFarming\obj\Debug\_009LegendaryFarming.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_009LegendaryFarming\obj\Debug\_009LegendaryFarming.pdb

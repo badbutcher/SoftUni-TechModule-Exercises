@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_003ArrayManipulator\bin\Debug\_003ArrayManipulator.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_003ArrayManipulator\bin\Debug\_003ArrayManipulator.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_003ArrayManipulator\bin\Debug\_003ArrayManipulator.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_003ArrayManipulator\obj\Debug\_003ArrayManipulator.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_003ArrayManipulator\obj\Debug\_003ArrayManipulator.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_003ArrayManipulator\obj\Debug\_003ArrayManipulator.csprojResolveAssemblyReference.cache

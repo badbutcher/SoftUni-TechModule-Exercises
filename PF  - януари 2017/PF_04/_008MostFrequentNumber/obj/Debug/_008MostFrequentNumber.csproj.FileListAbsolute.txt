@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_008MostFrequentNumber\bin\Debug\_008MostFrequentNumber.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_008MostFrequentNumber\bin\Debug\_008MostFrequentNumber.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_008MostFrequentNumber\bin\Debug\_008MostFrequentNumber.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_008MostFrequentNumber\obj\Debug\_008MostFrequentNumber.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_008MostFrequentNumber\obj\Debug\_008MostFrequentNumber.pdb

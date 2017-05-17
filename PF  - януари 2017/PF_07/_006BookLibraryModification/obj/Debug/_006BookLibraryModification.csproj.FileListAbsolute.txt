@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_006BookLibraryModification\bin\Debug\_006BookLibraryModification.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_006BookLibraryModification\bin\Debug\_006BookLibraryModification.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_006BookLibraryModification\bin\Debug\_006BookLibraryModification.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_006BookLibraryModification\obj\Debug\_006BookLibraryModification.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_006BookLibraryModification\obj\Debug\_006BookLibraryModification.pdb

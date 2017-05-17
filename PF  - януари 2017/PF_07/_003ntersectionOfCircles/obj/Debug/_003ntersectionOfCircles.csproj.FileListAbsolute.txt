@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_003ntersectionOfCircles\bin\Debug\_003ntersectionOfCircles.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_003ntersectionOfCircles\bin\Debug\_003ntersectionOfCircles.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_003ntersectionOfCircles\bin\Debug\_003ntersectionOfCircles.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_003ntersectionOfCircles\obj\Debug\_003ntersectionOfCircles.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_003ntersectionOfCircles\obj\Debug\_003ntersectionOfCircles.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_07\_003ntersectionOfCircles\obj\Debug\_003ntersectionOfCircles.pdb

@@ -1,0 +1,5 @@
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_018DifferentIntegersSize\bin\Debug\_018DifferentIntegersSize.exe.config
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_018DifferentIntegersSize\bin\Debug\_018DifferentIntegersSize.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_018DifferentIntegersSize\bin\Debug\_018DifferentIntegersSize.pdb
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_018DifferentIntegersSize\obj\Debug\_018DifferentIntegersSize.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_018DifferentIntegersSize\obj\Debug\_018DifferentIntegersSize.pdb

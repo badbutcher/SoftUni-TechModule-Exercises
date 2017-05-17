@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_015DebuggingExerciseSubstring\bin\Debug\_015DebuggingExerciseSubstring.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_015DebuggingExerciseSubstring\bin\Debug\_015DebuggingExerciseSubstring.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_015DebuggingExerciseSubstring\bin\Debug\_015DebuggingExerciseSubstring.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_015DebuggingExerciseSubstring\obj\Debug\_015DebuggingExerciseSubstring.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_015DebuggingExerciseSubstring\obj\Debug\_015DebuggingExerciseSubstring.pdb

@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_016DebuggingExerciseInstructionSet\bin\Debug\_016DebuggingExerciseInstructionSet.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_016DebuggingExerciseInstructionSet\bin\Debug\_016DebuggingExerciseInstructionSet.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_016DebuggingExerciseInstructionSet\bin\Debug\_016DebuggingExerciseInstructionSet.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_016DebuggingExerciseInstructionSet\obj\Debug\_016DebuggingExerciseInstructionSet.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_016DebuggingExerciseInstructionSet\obj\Debug\_016DebuggingExerciseInstructionSet.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_016DebuggingExerciseInstructionSet\obj\Debug\_016DebuggingExerciseInstructionSet.csprojResolveAssemblyReference.cache

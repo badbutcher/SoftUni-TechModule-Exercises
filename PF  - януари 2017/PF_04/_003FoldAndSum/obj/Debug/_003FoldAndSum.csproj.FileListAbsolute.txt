@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_003FoldAndSum\bin\Debug\_003FoldAndSum.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_003FoldAndSum\bin\Debug\_003FoldAndSum.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_003FoldAndSum\bin\Debug\_003FoldAndSum.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_003FoldAndSum\obj\Debug\_003FoldAndSum.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_003FoldAndSum\obj\Debug\_003FoldAndSum.pdb

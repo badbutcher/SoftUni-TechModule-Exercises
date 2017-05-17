@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_009IndexOfLetters\bin\Debug\_009IndexOfLetters.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_009IndexOfLetters\bin\Debug\_009IndexOfLetters.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_009IndexOfLetters\bin\Debug\_009IndexOfLetters.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_009IndexOfLetters\obj\Debug\_009IndexOfLetters.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_009IndexOfLetters\obj\Debug\_009IndexOfLetters.pdb

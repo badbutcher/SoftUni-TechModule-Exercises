@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_002RotateAndSum\bin\Debug\_002RotateAndSum.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_002RotateAndSum\bin\Debug\_002RotateAndSum.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_002RotateAndSum\bin\Debug\_002RotateAndSum.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_002RotateAndSum\obj\Debug\_002RotateAndSum.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_04\_002RotateAndSum\obj\Debug\_002RotateAndSum.pdb

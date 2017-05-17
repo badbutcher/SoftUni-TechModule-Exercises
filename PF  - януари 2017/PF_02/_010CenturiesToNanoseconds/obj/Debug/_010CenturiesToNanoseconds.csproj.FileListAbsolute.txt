@@ -1,0 +1,6 @@
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_010CenturiesToNanoseconds\bin\Debug\_010CenturiesToNanoseconds.exe.config
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_010CenturiesToNanoseconds\bin\Debug\_010CenturiesToNanoseconds.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_010CenturiesToNanoseconds\bin\Debug\_010CenturiesToNanoseconds.pdb
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_010CenturiesToNanoseconds\obj\Debug\_010CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_010CenturiesToNanoseconds\obj\Debug\_010CenturiesToNanoseconds.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_010CenturiesToNanoseconds\obj\Debug\_010CenturiesToNanoseconds.pdb

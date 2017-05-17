@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_013Factorial\bin\Debug\_013Factorial.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_013Factorial\bin\Debug\_013Factorial.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_013Factorial\bin\Debug\_013Factorial.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_013Factorial\obj\Debug\_013Factorial.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_013Factorial\obj\Debug\_013Factorial.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_013Factorial\obj\Debug\_013Factorial.pdb

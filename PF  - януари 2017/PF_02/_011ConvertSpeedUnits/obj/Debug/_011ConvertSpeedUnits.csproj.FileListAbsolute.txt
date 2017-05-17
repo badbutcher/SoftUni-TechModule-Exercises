@@ -1,0 +1,6 @@
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_011ConvertSpeedUnits\bin\Debug\_011ConvertSpeedUnits.exe.config
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_011ConvertSpeedUnits\bin\Debug\_011ConvertSpeedUnits.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_011ConvertSpeedUnits\bin\Debug\_011ConvertSpeedUnits.pdb
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_011ConvertSpeedUnits\obj\Debug\_011ConvertSpeedUnits.csprojResolveAssemblyReference.cache
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_011ConvertSpeedUnits\obj\Debug\_011ConvertSpeedUnits.exe
+C:\Users\badbutcherbg\Desktop\PF  - януари 2017\PF_02\_011ConvertSpeedUnits\obj\Debug\_011ConvertSpeedUnits.pdb

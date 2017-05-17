@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_003UnicodeCharacters\bin\Debug\_003UnicodeCharacters.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_003UnicodeCharacters\bin\Debug\_003UnicodeCharacters.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_003UnicodeCharacters\bin\Debug\_003UnicodeCharacters.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_003UnicodeCharacters\obj\Debug\_003UnicodeCharacters.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_09\_003UnicodeCharacters\obj\Debug\_003UnicodeCharacters.pdb

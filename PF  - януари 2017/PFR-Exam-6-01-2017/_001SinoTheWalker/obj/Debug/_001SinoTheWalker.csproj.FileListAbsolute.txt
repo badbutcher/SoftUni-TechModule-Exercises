@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_001SinoTheWalker\bin\Debug\_001SinoTheWalker.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_001SinoTheWalker\bin\Debug\_001SinoTheWalker.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_001SinoTheWalker\bin\Debug\_001SinoTheWalker.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_001SinoTheWalker\obj\Debug\_001SinoTheWalker.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_001SinoTheWalker\obj\Debug\_001SinoTheWalker.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PFR-Exam-6-01-2017\_001SinoTheWalker\obj\Debug\_001SinoTheWalker.pdb

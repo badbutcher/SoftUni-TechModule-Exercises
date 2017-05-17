@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_018DebuggingExerciseSequenceOfCommands\bin\Debug\_018DebuggingExerciseSequenceOfCommands.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_018DebuggingExerciseSequenceOfCommands\bin\Debug\_018DebuggingExerciseSequenceOfCommands.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_018DebuggingExerciseSequenceOfCommands\bin\Debug\_018DebuggingExerciseSequenceOfCommands.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_018DebuggingExerciseSequenceOfCommands\obj\Debug\_018DebuggingExerciseSequenceOfCommands.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_018DebuggingExerciseSequenceOfCommands\obj\Debug\_018DebuggingExerciseSequenceOfCommands.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_03\_018DebuggingExerciseSequenceOfCommands\obj\Debug\_018DebuggingExerciseSequenceOfCommands.pdb

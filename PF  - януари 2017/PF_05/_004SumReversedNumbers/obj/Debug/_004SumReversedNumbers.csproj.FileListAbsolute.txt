@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_004SumReversedNumbers\bin\Debug\_004SumReversedNumbers.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_004SumReversedNumbers\bin\Debug\_004SumReversedNumbers.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_004SumReversedNumbers\bin\Debug\_004SumReversedNumbers.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_004SumReversedNumbers\obj\Debug\_004SumReversedNumbers.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_05\_004SumReversedNumbers\obj\Debug\_004SumReversedNumbers.pdb

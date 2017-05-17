@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_006UserLogs\bin\Debug\_006UserLogs.exe.config
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_006UserLogs\bin\Debug\_006UserLogs.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_006UserLogs\bin\Debug\_006UserLogs.pdb
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_006UserLogs\obj\Debug\_006UserLogs.exe
+C:\Users\badbutcher\Desktop\PF  - януари 2017\PF_06\_006UserLogs\obj\Debug\_006UserLogs.pdb
